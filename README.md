@@ -7,7 +7,7 @@ The best way to learn is to teach others, even when you don't feel confident or 
 “Don’t be afraid to fail. Be afraid not to try.” -- Michael Jordan
 
 # Skills
-| Languages | Proficiency |
+| Exposure | Proficiency |
 |-------------------|-------------|
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20" />               Python     | Advanced     |
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20" height="20" />         C++        | Intermediate |
